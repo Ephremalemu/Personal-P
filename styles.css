@@ -599,3 +599,13 @@ textarea,
   font-weight: 200;
   color: aqua;
 }
+.download {
+  border: 5px solid gray;
+  text-align: center;
+  padding: 7px;
+  color: aqua;
+  font-size: 30px;
+  font-weight: 400;
+  width: 45%;
+  margin: 0 auto;
+}
